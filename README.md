@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swikriti 
+- 👋 Hi, I’m Kriti
 - 🌱 I’m currently learning Full Stack Web Developement
 - 📫 Reach me @swikritim05@gmail.com
 - 😄 Pronouns: she/her
