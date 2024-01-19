@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kriti
-- 🌱 I’m currently learning Full Stack Web Developement
+- 🌱 I’m currently learning Full Stack Web Development
 - 📫 Reach me @swikritim05@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: This profile contains the blueprints for world domination (mostly)
